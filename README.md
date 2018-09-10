@@ -26,13 +26,14 @@ El curso se llevará a cabo en `R`, pero habrá algunos módulos de uso de infor
     2. Introducción a la lógica de capas.
     3. Elementos estructurales de las visualizaciones.
     4. Modificación de elementos guía: títulos, subtítulos, títulos de ejes, thiks, escalas, límites, grids y guías.
-    5. "Primitivos" gráficos
+    5. Introducción a la lógica de coordenadas.
+    6. "Primitivos" gráficos
         1. `geom_polygon`
         2. `geom_path`
         3. `geom_segment`
         4. `geom_segment`
         5. `geom_rect`
-    6. `qplot`, esa salida fácil
+    7. `qplot`, esa salida fácil
 
 3. Tipos de visualizaciones con respecto a al naturaleza de los datos
     1. `geom_hist`
@@ -50,14 +51,36 @@ El curso se llevará a cabo en `R`, pero habrá algunos módulos de uso de infor
     10. Heatmaps con `geom_tile`
 
 4. Extensiones de `ggplot2`
-   
-5. Otros tipos de visualización
+    1. `ggridges`
+    2. `gg_joy`
+    3. `gg_tern`
+    4. `gg_mosaic`
+
+5. Embellecer a voluntad una gráfica
+    1. Uso de elementos en *Themes* incluidos en el paquete.
+    2. Uso de *brewer* y paletas de colores.
+        1. `wesanderson`
+        2. `ochRe`
+        3. `viridis`
+        4. `scico`
+    3. `ggthemes`
+    4. `hbrthemes`
+
+6. Más allá de `ggplot2`: Otros tipos de visualización
     1. `treemap()`
-   
-6. Análisis de redes
+    2. `plot3D`
+
+7. Análisis de redes
     1. `igraph`
     2. `networkD3`
         1. Redes
         2. Diagramas de Sankey
     3. `alluvial`
     4. `circlize`
+
+8. Geografías
+    1. `ggmap`
+    2. `sf`
+    3. Una brevísima introducción a *QGIS*
+        1. *QuickMap* plug-in
+        2. *Styles para hacer choropleths.

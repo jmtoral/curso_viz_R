@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Este repositorio contiene un curso diseñado *ex profeso* para MIguel Toro sobre visualización de datos. La idea es que el alumno pueda, al final de las n sesiones, visualizar grandes cantidades de datos en múltiples formas.
+Este repositorio contiene un curso diseñado *ex profeso* para Alejandro Cuauhtémoc sobre visualización de datos. La idea es que el alumno pueda, al final de las n sesiones, visualizar grandes cantidades de datos en múltiples formas.
 
 El curso irá desde un breve repaso de las funciones de `R`, principalmente funciones disponibles gracias al `tidyverse`, hasta el uso de módulos de `D3.js` para hacer visualizaciones interactivas y exportables a la web en `HTML`. 
 
